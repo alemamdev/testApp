@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/in3onirbanbd/public_html/
+    - export DEPLOYPATH=/home/in3onirbanbd/repositories/testApp
     - /bin/cp * $DEPLOYPATH
